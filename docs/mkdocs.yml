@@ -1,0 +1,18 @@
+# Project information
+site_name: 'Weapon of Mass Disconnection'
+repo_url: 'https://github.com/PugetSoundClinic-PIT/WMDisconnection'
+
+# Documentation layout
+nav:
+  - 'index.md'
+  - 'Chapter 0.md'
+  - 'Chapter 1.md'
+  - 'Chapter 2.md'
+  - 'Chapter 3.md'
+  - 'Chapter 4.md'
+
+# Build directories
+theme:
+  name: 'material'
+docs_dir: 'source'
+site_dir: 'build'
